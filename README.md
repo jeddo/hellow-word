@@ -1,2 +1,3 @@
 # hellow-word
-helloq
+hellow
+frist day on gethub
